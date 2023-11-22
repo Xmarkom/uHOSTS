@@ -36,5 +36,12 @@ File structure:
 ROOT\ >--- uHOSTS.bat
             readme.md
                   dat\  >--- HOSTS  (custom file)
+
 ```
+---
+.
+.
+.
+
+![Alt text](image.png)
 
